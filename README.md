@@ -74,4 +74,22 @@ npm start
 
 ## making a branch
 
+### creating a new branch
+make sure your on the main branch first for creating a new branch
+```
+git checkout -b branchname
+```
+
+### switching to a branch
+```
+git checkout branchname
+```
+
+### pulling from main/a branch
+```
+git fetch origin branchname
+```
+
+
+
 
